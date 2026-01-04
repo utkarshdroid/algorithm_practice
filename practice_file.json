@@ -1,0 +1,1274 @@
+[
+    {
+        "Week": "Week 1",
+        "Category": "Array / String",
+        "Day": "Mon",
+        "Problem Name": "Merge Sorted Array",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/merge-sorted-array/"
+    },
+    {
+        "Week": "Week 1",
+        "Category": "Array / String",
+        "Day": "Mon",
+        "Problem Name": "Remove Element",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/remove-element/"
+    },
+    {
+        "Week": "Week 1",
+        "Category": "Array / String",
+        "Day": "Tue",
+        "Problem Name": "Remove Duplicates from Sorted Array",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+    },
+    {
+        "Week": "Week 1",
+        "Category": "Array / String",
+        "Day": "Tue",
+        "Problem Name": "Remove Duplicates from Sorted Array II",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/"
+    },
+    {
+        "Week": "Week 1",
+        "Category": "Array / String",
+        "Day": "Wed",
+        "Problem Name": "Majority Element",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/majority-element/"
+    },
+    {
+        "Week": "Week 1",
+        "Category": "Array / String",
+        "Day": "Wed",
+        "Problem Name": "Rotate Array",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/rotate-array/"
+    },
+    {
+        "Week": "Week 1",
+        "Category": "Array / String",
+        "Day": "Thu",
+        "Problem Name": "Best Time to Buy and Sell Stock",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+        "Week": "Week 1",
+        "Category": "Array / String",
+        "Day": "Thu",
+        "Problem Name": "Best Time to Buy and Sell Stock II",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+    },
+    {
+        "Week": "Week 1",
+        "Category": "Array / String",
+        "Day": "Fri",
+        "Problem Name": "Jump Game",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/jump-game/"
+    },
+    {
+        "Week": "Week 1",
+        "Category": "Array / String",
+        "Day": "Fri",
+        "Problem Name": "Jump Game II",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/jump-game-ii/"
+    },
+    {
+        "Week": "Week 1",
+        "Category": "Array / String",
+        "Day": "Sat",
+        "Problem Name": "H-Index",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/h-index/"
+    },
+    {
+        "Week": "Week 1",
+        "Category": "Array / String",
+        "Day": "Sat",
+        "Problem Name": "Insert Delete GetRandom O(1)",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1/"
+    },
+    {
+        "Week": "Week 1",
+        "Category": "Array / String",
+        "Day": "Sun",
+        "Problem Name": "Product of Array Except Self",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/product-of-array-except-self/"
+    },
+    {
+        "Week": "Week 1",
+        "Category": "Array / String",
+        "Day": "Sun",
+        "Problem Name": "Gas Station",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/gas-station/"
+    },
+    {
+        "Week": "Week 2",
+        "Category": "Two Pointers & Sliding Window",
+        "Day": "Mon",
+        "Problem Name": "Valid Palindrome",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/valid-palindrome/"
+    },
+    {
+        "Week": "Week 2",
+        "Category": "Two Pointers & Sliding Window",
+        "Day": "Mon",
+        "Problem Name": "Is Subsequence",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/is-subsequence/"
+    },
+    {
+        "Week": "Week 2",
+        "Category": "Two Pointers & Sliding Window",
+        "Day": "Tue",
+        "Problem Name": "Two Sum II - Input Array Is Sorted",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/"
+    },
+    {
+        "Week": "Week 2",
+        "Category": "Two Pointers & Sliding Window",
+        "Day": "Tue",
+        "Problem Name": "Container With Most Water",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/container-with-most-water/"
+    },
+    {
+        "Week": "Week 2",
+        "Category": "Two Pointers & Sliding Window",
+        "Day": "Wed",
+        "Problem Name": "3Sum",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/3sum/"
+    },
+    {
+        "Week": "Week 2",
+        "Category": "Two Pointers & Sliding Window",
+        "Day": "Wed",
+        "Problem Name": "Minimum Size Subarray Sum",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/minimum-size-subarray-sum/"
+    },
+    {
+        "Week": "Week 2",
+        "Category": "Two Pointers & Sliding Window",
+        "Day": "Thu",
+        "Problem Name": "Longest Substring Without Repeating Characters",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+    },
+    {
+        "Week": "Week 2",
+        "Category": "Two Pointers & Sliding Window",
+        "Day": "Thu",
+        "Problem Name": "Substring with Concatenation of All Words",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+    },
+    {
+        "Week": "Week 2",
+        "Category": "Two Pointers & Sliding Window",
+        "Day": "Fri",
+        "Problem Name": "Minimum Window Substring",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "Week": "Week 2",
+        "Category": "Two Pointers & Sliding Window",
+        "Day": "Fri",
+        "Problem Name": "Longest Common Prefix",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/longest-common-prefix/"
+    },
+    {
+        "Week": "Week 2",
+        "Category": "Two Pointers & Sliding Window",
+        "Day": "Sat",
+        "Problem Name": "Zigzag Conversion",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/zigzag-conversion/"
+    },
+    {
+        "Week": "Week 2",
+        "Category": "Two Pointers & Sliding Window",
+        "Day": "Sat",
+        "Problem Name": "Text Justification",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/text-justification/"
+    },
+    {
+        "Week": "Week 2",
+        "Category": "Two Pointers & Sliding Window",
+        "Day": "Sun",
+        "Problem Name": "Trapping Rain Water",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/trapping-rain-water/"
+    },
+    {
+        "Week": "Week 2",
+        "Category": "Two Pointers & Sliding Window",
+        "Day": "Sun",
+        "Problem Name": "Candy",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/candy/"
+    },
+    {
+        "Week": "Week 3",
+        "Category": "Matrix & Hashmap",
+        "Day": "Mon",
+        "Problem Name": "Valid Sudoku",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/valid-sudoku/"
+    },
+    {
+        "Week": "Week 3",
+        "Category": "Matrix & Hashmap",
+        "Day": "Mon",
+        "Problem Name": "Spiral Matrix",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/spiral-matrix/"
+    },
+    {
+        "Week": "Week 3",
+        "Category": "Matrix & Hashmap",
+        "Day": "Tue",
+        "Problem Name": "Rotate Image",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/rotate-image/"
+    },
+    {
+        "Week": "Week 3",
+        "Category": "Matrix & Hashmap",
+        "Day": "Tue",
+        "Problem Name": "Set Matrix Zeroes",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/set-matrix-zeroes/"
+    },
+    {
+        "Week": "Week 3",
+        "Category": "Matrix & Hashmap",
+        "Day": "Wed",
+        "Problem Name": "Game of Life",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/game-of-life/"
+    },
+    {
+        "Week": "Week 3",
+        "Category": "Matrix & Hashmap",
+        "Day": "Wed",
+        "Problem Name": "Ransom Note",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/ransom-note/"
+    },
+    {
+        "Week": "Week 3",
+        "Category": "Matrix & Hashmap",
+        "Day": "Thu",
+        "Problem Name": "Isomorphic Strings",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/isomorphic-strings/"
+    },
+    {
+        "Week": "Week 3",
+        "Category": "Matrix & Hashmap",
+        "Day": "Thu",
+        "Problem Name": "Word Pattern",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/word-pattern/"
+    },
+    {
+        "Week": "Week 3",
+        "Category": "Matrix & Hashmap",
+        "Day": "Fri",
+        "Problem Name": "Valid Anagram",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/valid-anagram/"
+    },
+    {
+        "Week": "Week 3",
+        "Category": "Matrix & Hashmap",
+        "Day": "Fri",
+        "Problem Name": "Group Anagrams",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/group-anagrams/"
+    },
+    {
+        "Week": "Week 3",
+        "Category": "Matrix & Hashmap",
+        "Day": "Sat",
+        "Problem Name": "Two Sum",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/two-sum/"
+    },
+    {
+        "Week": "Week 3",
+        "Category": "Matrix & Hashmap",
+        "Day": "Sat",
+        "Problem Name": "Happy Number",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/happy-number/"
+    },
+    {
+        "Week": "Week 3",
+        "Category": "Matrix & Hashmap",
+        "Day": "Sun",
+        "Problem Name": "Contains Duplicate II",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/contains-duplicate-ii/"
+    },
+    {
+        "Week": "Week 3",
+        "Category": "Matrix & Hashmap",
+        "Day": "Sun",
+        "Problem Name": "Longest Consecutive Sequence",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/longest-consecutive-sequence/"
+    },
+    {
+        "Week": "Week 4",
+        "Category": "Intervals & Stack",
+        "Day": "Mon",
+        "Problem Name": "Summary Ranges",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/summary-ranges/"
+    },
+    {
+        "Week": "Week 4",
+        "Category": "Intervals & Stack",
+        "Day": "Mon",
+        "Problem Name": "Merge Intervals",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/merge-intervals/"
+    },
+    {
+        "Week": "Week 4",
+        "Category": "Intervals & Stack",
+        "Day": "Tue",
+        "Problem Name": "Insert Interval",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/insert-interval/"
+    },
+    {
+        "Week": "Week 4",
+        "Category": "Intervals & Stack",
+        "Day": "Tue",
+        "Problem Name": "Minimum Number of Arrows to Burst Balloons",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/"
+    },
+    {
+        "Week": "Week 4",
+        "Category": "Intervals & Stack",
+        "Day": "Wed",
+        "Problem Name": "Valid Parentheses",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+        "Week": "Week 4",
+        "Category": "Intervals & Stack",
+        "Day": "Wed",
+        "Problem Name": "Simplify Path",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/simplify-path/"
+    },
+    {
+        "Week": "Week 4",
+        "Category": "Intervals & Stack",
+        "Day": "Thu",
+        "Problem Name": "Min Stack",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/min-stack/"
+    },
+    {
+        "Week": "Week 4",
+        "Category": "Intervals & Stack",
+        "Day": "Thu",
+        "Problem Name": "Evaluate Reverse Polish Notation",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/evaluate-reverse-polish-notation/"
+    },
+    {
+        "Week": "Week 4",
+        "Category": "Intervals & Stack",
+        "Day": "Fri",
+        "Problem Name": "Basic Calculator",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/basic-calculator/"
+    },
+    {
+        "Week": "Week 4",
+        "Category": "Intervals & Stack",
+        "Day": "Fri",
+        "Problem Name": "Linked List Cycle",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/linked-list-cycle/"
+    },
+    {
+        "Week": "Week 4",
+        "Category": "Intervals & Stack",
+        "Day": "Sat",
+        "Problem Name": "Add Two Numbers",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/add-two-numbers/"
+    },
+    {
+        "Week": "Week 4",
+        "Category": "Intervals & Stack",
+        "Day": "Sat",
+        "Problem Name": "Merge Two Sorted Lists",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/merge-two-sorted-lists/"
+    },
+    {
+        "Week": "Week 4",
+        "Category": "Intervals & Stack",
+        "Day": "Sun",
+        "Problem Name": "Copy List with Random Pointer",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/copy-list-with-random-pointer/"
+    },
+    {
+        "Week": "Week 4",
+        "Category": "Intervals & Stack",
+        "Day": "Sun",
+        "Problem Name": "Reverse Linked List II",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/reverse-linked-list-ii/"
+    },
+    {
+        "Week": "Week 5",
+        "Category": "Linked List & Trees",
+        "Day": "Mon",
+        "Problem Name": "Reverse Nodes in k-Group",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/reverse-nodes-in-k-group/"
+    },
+    {
+        "Week": "Week 5",
+        "Category": "Linked List & Trees",
+        "Day": "Mon",
+        "Problem Name": "Remove Nth Node From End of List",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+    },
+    {
+        "Week": "Week 5",
+        "Category": "Linked List & Trees",
+        "Day": "Tue",
+        "Problem Name": "Remove Duplicates from Sorted List II",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/"
+    },
+    {
+        "Week": "Week 5",
+        "Category": "Linked List & Trees",
+        "Day": "Tue",
+        "Problem Name": "Rotate List",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/rotate-list/"
+    },
+    {
+        "Week": "Week 5",
+        "Category": "Linked List & Trees",
+        "Day": "Wed",
+        "Problem Name": "Partition List",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/partition-list/"
+    },
+    {
+        "Week": "Week 5",
+        "Category": "Linked List & Trees",
+        "Day": "Wed",
+        "Problem Name": "LRU Cache",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/lru-cache/"
+    },
+    {
+        "Week": "Week 5",
+        "Category": "Linked List & Trees",
+        "Day": "Thu",
+        "Problem Name": "Maximum Depth of Binary Tree",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+    },
+    {
+        "Week": "Week 5",
+        "Category": "Linked List & Trees",
+        "Day": "Thu",
+        "Problem Name": "Same Tree",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/same-tree/"
+    },
+    {
+        "Week": "Week 5",
+        "Category": "Linked List & Trees",
+        "Day": "Fri",
+        "Problem Name": "Invert Binary Tree",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/invert-binary-tree/"
+    },
+    {
+        "Week": "Week 5",
+        "Category": "Linked List & Trees",
+        "Day": "Fri",
+        "Problem Name": "Symmetric Tree",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/symmetric-tree/"
+    },
+    {
+        "Week": "Week 5",
+        "Category": "Linked List & Trees",
+        "Day": "Sat",
+        "Problem Name": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+    },
+    {
+        "Week": "Week 5",
+        "Category": "Linked List & Trees",
+        "Day": "Sat",
+        "Problem Name": "Construct Binary Tree from Inorder and Postorder Traversal",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/"
+    },
+    {
+        "Week": "Week 5",
+        "Category": "Linked List & Trees",
+        "Day": "Sun",
+        "Problem Name": "Populating Next Right Pointers in Each Node II",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/"
+    },
+    {
+        "Week": "Week 5",
+        "Category": "Linked List & Trees",
+        "Day": "Sun",
+        "Problem Name": "Flatten Binary Tree to Linked List",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/"
+    },
+    {
+        "Week": "Week 6",
+        "Category": "Tree Algorithms",
+        "Day": "Mon",
+        "Problem Name": "Path Sum",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/path-sum/"
+    },
+    {
+        "Week": "Week 6",
+        "Category": "Tree Algorithms",
+        "Day": "Mon",
+        "Problem Name": "Sum Root to Leaf Numbers",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/sum-root-to-leaf-numbers/"
+    },
+    {
+        "Week": "Week 6",
+        "Category": "Tree Algorithms",
+        "Day": "Tue",
+        "Problem Name": "Binary Tree Maximum Path Sum",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
+    },
+    {
+        "Week": "Week 6",
+        "Category": "Tree Algorithms",
+        "Day": "Tue",
+        "Problem Name": "Binary Search Tree Iterator",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/binary-search-tree-iterator/"
+    },
+    {
+        "Week": "Week 6",
+        "Category": "Tree Algorithms",
+        "Day": "Wed",
+        "Problem Name": "Count Complete Tree Nodes",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/count-complete-tree-nodes/"
+    },
+    {
+        "Week": "Week 6",
+        "Category": "Tree Algorithms",
+        "Day": "Wed",
+        "Problem Name": "Lowest Common Ancestor of a Binary Tree",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/"
+    },
+    {
+        "Week": "Week 6",
+        "Category": "Tree Algorithms",
+        "Day": "Thu",
+        "Problem Name": "Binary Tree Right Side View",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/binary-tree-right-side-view/"
+    },
+    {
+        "Week": "Week 6",
+        "Category": "Tree Algorithms",
+        "Day": "Thu",
+        "Problem Name": "Average of Levels in Binary Tree",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/average-of-levels-in-binary-tree/"
+    },
+    {
+        "Week": "Week 6",
+        "Category": "Tree Algorithms",
+        "Day": "Fri",
+        "Problem Name": "Binary Tree Level Order Traversal",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+    },
+    {
+        "Week": "Week 6",
+        "Category": "Tree Algorithms",
+        "Day": "Fri",
+        "Problem Name": "Zigzag Level Order Traversal",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/zigzag-level-order-traversal/"
+    },
+    {
+        "Week": "Week 6",
+        "Category": "Tree Algorithms",
+        "Day": "Sat",
+        "Problem Name": "Minimum Absolute Difference in BST",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/"
+    },
+    {
+        "Week": "Week 6",
+        "Category": "Tree Algorithms",
+        "Day": "Sat",
+        "Problem Name": "Kth Smallest Element in a BST",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+    },
+    {
+        "Week": "Week 6",
+        "Category": "Tree Algorithms",
+        "Day": "Sun",
+        "Problem Name": "Validate Binary Search Tree",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/validate-binary-search-tree/"
+    },
+    {
+        "Week": "Week 6",
+        "Category": "Tree Algorithms",
+        "Day": "Sun",
+        "Problem Name": "Word Ladder",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/word-ladder/"
+    },
+    {
+        "Week": "Week 7",
+        "Category": "Graphs (BFS/DFS)",
+        "Day": "Mon",
+        "Problem Name": "Number of Islands",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/number-of-islands/"
+    },
+    {
+        "Week": "Week 7",
+        "Category": "Graphs (BFS/DFS)",
+        "Day": "Mon",
+        "Problem Name": "Surrounded Regions",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/surrounded-regions/"
+    },
+    {
+        "Week": "Week 7",
+        "Category": "Graphs (BFS/DFS)",
+        "Day": "Tue",
+        "Problem Name": "Clone Graph",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/clone-graph/"
+    },
+    {
+        "Week": "Week 7",
+        "Category": "Graphs (BFS/DFS)",
+        "Day": "Tue",
+        "Problem Name": "Evaluate Division",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/evaluate-division/"
+    },
+    {
+        "Week": "Week 7",
+        "Category": "Graphs (BFS/DFS)",
+        "Day": "Wed",
+        "Problem Name": "Course Schedule",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/course-schedule/"
+    },
+    {
+        "Week": "Week 7",
+        "Category": "Graphs (BFS/DFS)",
+        "Day": "Wed",
+        "Problem Name": "Course Schedule II",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/course-schedule-ii/"
+    },
+    {
+        "Week": "Week 7",
+        "Category": "Graphs (BFS/DFS)",
+        "Day": "Thu",
+        "Problem Name": "Snakes and Ladders",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/snakes-and-ladders/"
+    },
+    {
+        "Week": "Week 7",
+        "Category": "Graphs (BFS/DFS)",
+        "Day": "Thu",
+        "Problem Name": "Minimum Genetic Mutation",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/minimum-genetic-mutation/"
+    },
+    {
+        "Week": "Week 7",
+        "Category": "Graphs (BFS/DFS)",
+        "Day": "Fri",
+        "Problem Name": "Word Ladder",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/word-ladder/"
+    },
+    {
+        "Week": "Week 7",
+        "Category": "Graphs (BFS/DFS)",
+        "Day": "Fri",
+        "Problem Name": "Implement Trie (Prefix Tree)",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+    },
+    {
+        "Week": "Week 7",
+        "Category": "Graphs (BFS/DFS)",
+        "Day": "Sat",
+        "Problem Name": "Design Add and Search Words Data Structure",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/design-add-and-search-words-data-structure/"
+    },
+    {
+        "Week": "Week 7",
+        "Category": "Graphs (BFS/DFS)",
+        "Day": "Sat",
+        "Problem Name": "Word Search II",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/word-search-ii/"
+    },
+    {
+        "Week": "Week 7",
+        "Category": "Graphs (BFS/DFS)",
+        "Day": "Sun",
+        "Problem Name": "Letter Combinations of a Phone Number",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+    },
+    {
+        "Week": "Week 7",
+        "Category": "Graphs (BFS/DFS)",
+        "Day": "Sun",
+        "Problem Name": "Combinations",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/combinations/"
+    },
+    {
+        "Week": "Week 8",
+        "Category": "Backtracking & Divide/Conquer",
+        "Day": "Mon",
+        "Problem Name": "Permutations",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/permutations/"
+    },
+    {
+        "Week": "Week 8",
+        "Category": "Backtracking & Divide/Conquer",
+        "Day": "Mon",
+        "Problem Name": "Combination Sum",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/combination-sum/"
+    },
+    {
+        "Week": "Week 8",
+        "Category": "Backtracking & Divide/Conquer",
+        "Day": "Tue",
+        "Problem Name": "N-Queens II",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/n-queens-ii/"
+    },
+    {
+        "Week": "Week 8",
+        "Category": "Backtracking & Divide/Conquer",
+        "Day": "Tue",
+        "Problem Name": "Generate Parentheses",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/generate-parentheses/"
+    },
+    {
+        "Week": "Week 8",
+        "Category": "Backtracking & Divide/Conquer",
+        "Day": "Wed",
+        "Problem Name": "Word Search",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/word-search/"
+    },
+    {
+        "Week": "Week 8",
+        "Category": "Backtracking & Divide/Conquer",
+        "Day": "Wed",
+        "Problem Name": "Convert Sorted Array to Binary Search Tree",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/"
+    },
+    {
+        "Week": "Week 8",
+        "Category": "Backtracking & Divide/Conquer",
+        "Day": "Thu",
+        "Problem Name": "Sort List",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/sort-list/"
+    },
+    {
+        "Week": "Week 8",
+        "Category": "Backtracking & Divide/Conquer",
+        "Day": "Thu",
+        "Problem Name": "Construct Quad Tree",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/construct-quad-tree/"
+    },
+    {
+        "Week": "Week 8",
+        "Category": "Backtracking & Divide/Conquer",
+        "Day": "Fri",
+        "Problem Name": "Merge k Sorted Lists",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/merge-k-sorted-lists/"
+    },
+    {
+        "Week": "Week 8",
+        "Category": "Backtracking & Divide/Conquer",
+        "Day": "Fri",
+        "Problem Name": "Maximum Subarray",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+        "Week": "Week 8",
+        "Category": "Backtracking & Divide/Conquer",
+        "Day": "Sat",
+        "Problem Name": "Maximum Sum Circular Subarray",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/maximum-sum-circular-subarray/"
+    },
+    {
+        "Week": "Week 8",
+        "Category": "Backtracking & Divide/Conquer",
+        "Day": "Sat",
+        "Problem Name": "Search Insert Position",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/search-insert-position/"
+    },
+    {
+        "Week": "Week 8",
+        "Category": "Backtracking & Divide/Conquer",
+        "Day": "Sun",
+        "Problem Name": "Search a 2D Matrix",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/search-a-2d-matrix/"
+    },
+    {
+        "Week": "Week 8",
+        "Category": "Backtracking & Divide/Conquer",
+        "Day": "Sun",
+        "Problem Name": "Find Peak Element",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/find-peak-element/"
+    },
+    {
+        "Week": "Week 9",
+        "Category": "Binary Search & Heap",
+        "Day": "Mon",
+        "Problem Name": "Search in Rotated Sorted Array",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+    },
+    {
+        "Week": "Week 9",
+        "Category": "Binary Search & Heap",
+        "Day": "Mon",
+        "Problem Name": "Find First and Last Position of Element in Sorted Array",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/"
+    },
+    {
+        "Week": "Week 9",
+        "Category": "Binary Search & Heap",
+        "Day": "Tue",
+        "Problem Name": "Find Minimum in Rotated Sorted Array",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+    },
+    {
+        "Week": "Week 9",
+        "Category": "Binary Search & Heap",
+        "Day": "Tue",
+        "Problem Name": "Median of Two Sorted Arrays",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+    },
+    {
+        "Week": "Week 9",
+        "Category": "Binary Search & Heap",
+        "Day": "Wed",
+        "Problem Name": "Kth Largest Element in an Array",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+    },
+    {
+        "Week": "Week 9",
+        "Category": "Binary Search & Heap",
+        "Day": "Wed",
+        "Problem Name": "IPO",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/ipo/"
+    },
+    {
+        "Week": "Week 9",
+        "Category": "Binary Search & Heap",
+        "Day": "Thu",
+        "Problem Name": "Find K Pairs with Smallest Sums",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/"
+    },
+    {
+        "Week": "Week 9",
+        "Category": "Binary Search & Heap",
+        "Day": "Thu",
+        "Problem Name": "Find Median from Data Stream",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/find-median-from-data-stream/"
+    },
+    {
+        "Week": "Week 9",
+        "Category": "Binary Search & Heap",
+        "Day": "Fri",
+        "Problem Name": "Add Binary",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/add-binary/"
+    },
+    {
+        "Week": "Week 9",
+        "Category": "Binary Search & Heap",
+        "Day": "Fri",
+        "Problem Name": "Reverse Bits",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/reverse-bits/"
+    },
+    {
+        "Week": "Week 9",
+        "Category": "Binary Search & Heap",
+        "Day": "Sat",
+        "Problem Name": "Number of 1 Bits",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/number-of-1-bits/"
+    },
+    {
+        "Week": "Week 9",
+        "Category": "Binary Search & Heap",
+        "Day": "Sat",
+        "Problem Name": "Single Number",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/single-number/"
+    },
+    {
+        "Week": "Week 9",
+        "Category": "Binary Search & Heap",
+        "Day": "Sun",
+        "Problem Name": "Single Number II",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/single-number-ii/"
+    },
+    {
+        "Week": "Week 9",
+        "Category": "Binary Search & Heap",
+        "Day": "Sun",
+        "Problem Name": "Bitwise AND of Numbers Range",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/bitwise-and-of-numbers-range/"
+    },
+    {
+        "Week": "Week 10",
+        "Category": "Math & 1D DP",
+        "Day": "Mon",
+        "Problem Name": "Palindrome Number",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/palindrome-number/"
+    },
+    {
+        "Week": "Week 10",
+        "Category": "Math & 1D DP",
+        "Day": "Mon",
+        "Problem Name": "Plus One",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/plus-one/"
+    },
+    {
+        "Week": "Week 10",
+        "Category": "Math & 1D DP",
+        "Day": "Tue",
+        "Problem Name": "Factorial Trailing Zeroes",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/factorial-trailing-zeroes/"
+    },
+    {
+        "Week": "Week 10",
+        "Category": "Math & 1D DP",
+        "Day": "Tue",
+        "Problem Name": "Sqrt(x)",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/sqrtx/"
+    },
+    {
+        "Week": "Week 10",
+        "Category": "Math & 1D DP",
+        "Day": "Wed",
+        "Problem Name": "Pow(x, n)",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/powx-n/"
+    },
+    {
+        "Week": "Week 10",
+        "Category": "Math & 1D DP",
+        "Day": "Wed",
+        "Problem Name": "Max Points on a Line",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/max-points-on-a-line/"
+    },
+    {
+        "Week": "Week 10",
+        "Category": "Math & 1D DP",
+        "Day": "Thu",
+        "Problem Name": "Climbing Stairs",
+        "Difficulty": "Easy",
+        "Link": "https://leetcode.com/problems/climbing-stairs/"
+    },
+    {
+        "Week": "Week 10",
+        "Category": "Math & 1D DP",
+        "Day": "Thu",
+        "Problem Name": "House Robber",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/house-robber/"
+    },
+    {
+        "Week": "Week 10",
+        "Category": "Math & 1D DP",
+        "Day": "Fri",
+        "Problem Name": "Word Break",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/word-break/"
+    },
+    {
+        "Week": "Week 10",
+        "Category": "Math & 1D DP",
+        "Day": "Fri",
+        "Problem Name": "Coin Change",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/coin-change/"
+    },
+    {
+        "Week": "Week 10",
+        "Category": "Math & 1D DP",
+        "Day": "Sat",
+        "Problem Name": "Longest Increasing Subsequence",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/longest-increasing-subsequence/"
+    },
+    {
+        "Week": "Week 10",
+        "Category": "Math & 1D DP",
+        "Day": "Sat",
+        "Problem Name": "Triangle",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/triangle/"
+    },
+    {
+        "Week": "Week 10",
+        "Category": "Math & 1D DP",
+        "Day": "Sun",
+        "Problem Name": "Minimum Path Sum",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/minimum-path-sum/"
+    },
+    {
+        "Week": "Week 10",
+        "Category": "Math & 1D DP",
+        "Day": "Sun",
+        "Problem Name": "Unique Paths II",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/unique-paths-ii/"
+    },
+    {
+        "Week": "Week 11",
+        "Category": "Advanced DP",
+        "Day": "Mon",
+        "Problem Name": "Longest Palindromic Substring",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/longest-palindromic-substring/"
+    },
+    {
+        "Week": "Week 11",
+        "Category": "Advanced DP",
+        "Day": "Mon",
+        "Problem Name": "Interleaving String",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/interleaving-string/"
+    },
+    {
+        "Week": "Week 11",
+        "Category": "Advanced DP",
+        "Day": "Tue",
+        "Problem Name": "Edit Distance",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/edit-distance/"
+    },
+    {
+        "Week": "Week 11",
+        "Category": "Advanced DP",
+        "Day": "Tue",
+        "Problem Name": "Best Time to Buy and Sell Stock III",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/"
+    },
+    {
+        "Week": "Week 11",
+        "Category": "Advanced DP",
+        "Day": "Wed",
+        "Problem Name": "Best Time to Buy and Sell Stock IV",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/"
+    },
+    {
+        "Week": "Week 11",
+        "Category": "Advanced DP",
+        "Day": "Wed",
+        "Problem Name": "Maximal Square",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/maximal-square/"
+    },
+    {
+        "Week": "Week 11",
+        "Category": "Advanced DP",
+        "Day": "Thu",
+        "Problem Name": "Burst Balloons",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/burst-balloons/"
+    },
+    {
+        "Week": "Week 11",
+        "Category": "Advanced DP",
+        "Day": "Thu",
+        "Problem Name": "Candy",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/candy/"
+    },
+    {
+        "Week": "Week 12",
+        "Category": "Final Polish",
+        "Day": "Mon",
+        "Problem Name": "Trapping Rain Water",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/trapping-rain-water/"
+    },
+    {
+        "Week": "Week 12",
+        "Category": "Final Polish",
+        "Day": "Mon",
+        "Problem Name": "Skyline Problem",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/skyline-problem/"
+    },
+    {
+        "Week": "Week 12",
+        "Category": "Final Polish",
+        "Day": "Tue",
+        "Problem Name": "Count of Smaller Numbers After Self",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/"
+    },
+    {
+        "Week": "Week 12",
+        "Category": "Final Polish",
+        "Day": "Tue",
+        "Problem Name": "Range Sum Query 2D - Mutable",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/range-sum-query-2d-mutable/"
+    },
+    {
+        "Week": "Week 12",
+        "Category": "Final Polish",
+        "Day": "Wed",
+        "Problem Name": "Concatenated Words",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/concatenated-words/"
+    },
+    {
+        "Week": "Week 12",
+        "Category": "Final Polish",
+        "Day": "Wed",
+        "Problem Name": "Minimum Window Substring",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "Week": "Week 12",
+        "Category": "Final Polish",
+        "Day": "Thu",
+        "Problem Name": "Merge k Sorted Lists",
+        "Difficulty": "Hard",
+        "Link": "https://leetcode.com/problems/merge-k-sorted-lists/"
+    },
+    {
+        "Week": "Week 12",
+        "Category": "Final Polish",
+        "Day": "Thu",
+        "Problem Name": "Design Twitter",
+        "Difficulty": "Medium",
+        "Link": "https://leetcode.com/problems/design-twitter/"
+    },
+    {
+        "Week": "Week 12",
+        "Category": "Final Polish",
+        "Day": "Fri",
+        "Problem Name": "Behavioral Prep",
+        "Difficulty": "Soft Skills",
+        "Link": ""
+    },
+    {
+        "Week": "Week 12",
+        "Category": "Final Polish",
+        "Day": "Sat",
+        "Problem Name": "Full Mock Loop (Coding)",
+        "Difficulty": "Variable",
+        "Link": ""
+    },
+    {
+        "Week": "Week 12",
+        "Category": "Final Polish",
+        "Day": "Sun",
+        "Problem Name": "Full Mock Loop (Design)",
+        "Difficulty": "Variable",
+        "Link": ""
+    }
+]
