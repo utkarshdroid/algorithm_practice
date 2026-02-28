@@ -149,3 +149,17 @@ student_course_pairs = [
 - **Student 94** is taking: Art History, Operating Systems.
 - **Student 17** is taking: Software Design, Linear Algebra, Art History.
 - The intersection of courses for students 58 and 94 is **Art History** and **Operating Systems**
+
+
+
+----
+🧩 The Problem: Craftier Students
+You are given a list of class time slots, where each slot has a start time and an end time [start_time, end_time].
+
+The Goal: Find the maximum number of classes a student can attend without any scheduling conflicts (meaning no two selected intervals overlap).
+
+Example Input:
+
+Python
+classes = [[1, 4], [2, 5], [6, 7], [3, 8]]
+Expected Output: 2 (By selecting [1, 4] and [6, 7])
