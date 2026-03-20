@@ -1,21 +1,65 @@
-# The Data (The "Dependency Graph"):Each tuple (A, B) means Service A depends on Service B. 
-# (B must start before A).Pythondependencies = [
-#     ("AuthService", "Database"),
-#     ("Gateway", "AuthService"),
-#     ("Billing", "Database"),
-#     ("Gateway", "Billing"),
-#     ("Database", "FileStorage")
-# ]
-# 🎯 The MissionWrite a function find_start_order(dependencies) that returns a list of service names in a
-#  valid starting order.Requirements:The Order: If Service A depends on Service B, B must appear in the 
-# list before A.Completeness: Every service mentioned in the graph must appear in your final list exactly once.
-# Cycle Detection: Financial systems hate loops. If there is a circular dependency
-#  (e.g., A depends on B, and B depends on A), return an empty list [].
-# ⚠️ Staff-Level ExpectationsEfficiency:
-#  Aim for $O(V + E)$ where $V$ is the number of services and $E$ is the number of dependency links.
-# Data Structures: You will likely need an Adjacency List and an In-degree Map 
-# (counting how many things each service is waiting for).
-# Composure: Don't get lost in the pointers. Build the graph first, then solve the order.
-# Expected Output
-#  for the data above:
-# ['FileStorage', 'Database', 'AuthService', 'Billing', 'Gateway'] (or similar valid order).
+# tasks = ["Fetch_Data", "Validate", "Audit", "Report"]
+
+# dependencies = [("Fetch_Data", "Validate"), ("Validate", "Audit"), ("Audit", "Report")]
+
+# The Scenario: You have 4 tasks to complete for a financial audit.
+#  Some tasks depend on others.
+#  Find one valid order to complete all tasks.
+
+# Input:
+
+# tasks = ["Fetch_Data", "Validate", "Audit", "Report"]
+
+# dependencies = [("Fetch_Data", "Validate"), ("Validate", "Audit"), ("Audit", "Report")]
+
+# The Goal:
+# Return a list of tasks in a valid order.
+
+# Expected Output:
+# ["Fetch_Data", "Validate", "Audit", "Report"]
+
+tasks = ["Fetch_Data", "Validate", "Audit", "Report"]
+
+dependencies = [("Fetch_Data", "Validate"), ("Validate", "Audit"), ("Audit", "Report")]
+
+from typing import List 
+from collections import deque
+
+def get_topological_sort(tasks, dependencies):
+  
+    adj = {task: [] for task in tasks}
+    for parent, child in dependencies:
+        adj[parent].append(child)
+
+    # 2. State tracking: 0=Unvisited, 1=Visiting (Current Path), 2=Visited (Finished)
+    state = {task: 0 for task in tasks}
+    stack = []
+
+    def dfs(node):
+        state[node] = 1  # Mark as "Visiting"
+        
+        for neighbor in adj[node]:
+            if state[neighbor] == 1:
+                return True  # CYCLE DETECTED!
+            if state[neighbor] == 0:
+                if dfs(neighbor):
+                    return True
+        
+        state[node] = 2  # Mark as "Finished"
+        stack.append(node)
+        return False
+
+    # 3. Main loop: Use the original 'tasks' list to ensure all nodes are covered
+    for task in tasks:
+        if state[task] == 0:
+            if dfs(task):
+                print("Error: Cycle detected, topological sort impossible.")
+                return []
+
+    # Stack is currently [Leaf -> Root], so we return the reverse
+    return stack[::-1]
+
+# Test Case
+tasks = ["Fetch_Data", "Validate", "Audit", "Report", "Isolated_Task"]
+dependencies = [("Fetch_Data", "Validate"), ("Validate", "Audit"), ("Audit", "Report")]
+print(get_topological_sort(tasks, dependencies))
